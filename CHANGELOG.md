@@ -12,6 +12,7 @@ version directory, and then changes are introduced.
 ## [v3.3.2] WIP
 
 ### Changed
+- Added CustomResourceSubresources feature gate to apiserver.
 
 ### Removed
 - Removed node-exporter related components (will be managed by chart-operator).
